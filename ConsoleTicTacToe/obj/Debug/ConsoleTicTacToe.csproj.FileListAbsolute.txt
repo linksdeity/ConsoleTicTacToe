@@ -1,0 +1,7 @@
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\ConsoleTicTacToe.csprojAssemblyReference.cache
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\ConsoleTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\ConsoleTicTacToe.exe.config
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\ConsoleTicTacToe.exe
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\bin\Debug\ConsoleTicTacToe.pdb
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\ConsoleTicTacToe.exe
+C:\Users\tbroughton\source\repos\ConsoleTicTacToe\ConsoleTicTacToe\obj\Debug\ConsoleTicTacToe.pdb
